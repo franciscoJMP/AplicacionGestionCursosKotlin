@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AplicacionAndroidFinal</string>
+    <string name="title_home">Mis Cursos</string>
+    <string name="prefs_file">com.example.aplicacionandroidfinal.FILE</string>
+    <string name="title_dashboard">Explorar Cursos</string>
+    <string name="title_notifications">Ajustes de Usuario</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
